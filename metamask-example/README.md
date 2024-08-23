@@ -1,10 +1,10 @@
-# Integración de MetaMask con Ethers.js y React
+# Integración de MetaMask con Ethers.js y React 🦊
 
-## Descripción
+## Descripción ✍️​
 
 Este proyecto demuestra cómo integrar MetaMask con una aplicación React utilizando la biblioteca `ethers.js`. Incluye funcionalidad para conectar a MetaMask, recuperar información de la cuenta, consultar el saldo y detalles de la red, y desconectar de MetaMask.
 
-## Funcionalidades
+## Funcionalidades 👀​
 
 - **Conectar a MetaMask:** Permite a los usuarios conectar su billetera MetaMask.
 - **Recuperar Información de la Cuenta:** Muestra la dirección de la cuenta conectada.
@@ -12,14 +12,14 @@ Este proyecto demuestra cómo integrar MetaMask con una aplicación React utiliz
 - **Detalles de la Red:** Proporciona el nombre de la red de Ethereum a la que el usuario está conectado.
 - **Desconectar:** Permite a los usuarios desconectar su billetera MetaMask.
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas 🖥️​
 
 - **React:** Framework de frontend para construir la interfaz de usuario.
 - **ethers.js:** Biblioteca para interactuar con la blockchain de Ethereum.
 - **MetaMask:** Extensión del navegador para gestionar cuentas de Ethereum.
 - **react-toastify:** Biblioteca para mostrar notificaciones en la interfaz de usuario.
 
-## Instalación
+## Instalación 📝​
 
 Para configurar este proyecto localmente, sigue estos pasos:
 
@@ -42,7 +42,7 @@ Para configurar este proyecto localmente, sigue estos pasos:
 La aplicación se ejecutará en http://localhost:3000.
 
 
-## Uso
+## Uso 🚀​
 Abre la Aplicación: Navega a http://localhost:3000 en tu navegador.
 
 **Conectar MetaMask:**
@@ -57,21 +57,21 @@ El botón "Desconectar MetaMask" borrará la información mostrada y pedirá al 
 Haz clic en el botón "Desconectar MetaMask" para borrar la información de la cuenta y desconectar de MetaMask.
 
 
-## Enlaces Útiles
+## Enlaces Útiles 📒​
 MetaMask (https://metamask.io/)
 
 ethers.js Documentation (https://docs.ethers.org/v5/)
 
 React Documentation (https://react.dev/)
 
-## Librerías y Dependencias
+## Librerías y Dependencias 📚​
 react: ^18.2.0
 
 ethers: ^6.7.0
 
 react-toastify: ^9.2.0
 
-## Contacto
+## Contacto 📧
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 Correo Electrónico: toshiro.inami@vallegrande.edu.pe
 
