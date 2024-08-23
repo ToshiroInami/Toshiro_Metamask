@@ -31,7 +31,7 @@ Para configurar este proyecto localmente, sigue estos pasos:
 
    cd tu-nombre-de-repositorio
 
-3. **Instala las Dependencias (Asegúrate de tener Node.js y npm instalados). Luego ejecuta:
+3. **Instala las Dependencias (Asegúrate de tener Node.js y npm instalados). Luego ejecuta:**
 
    npm install
 
